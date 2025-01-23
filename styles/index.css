@@ -1,0 +1,56 @@
+h1 {
+    color: white;
+    background-color: red;
+}
+
+.blue-text {
+    color: white;
+    background-color: blue;
+}
+
+#unique {
+    color: white;
+    background-color: green;
+}
+
+a[target="_blank"] {
+    color: white;
+    background-color: purple;
+}
+
+section p {
+    color: white;
+    background-color: orange;
+}
+
+div>p {
+    color: white;
+    background-color: yellow;
+}
+
+
+.container .child {
+    color: white;
+    background-color: brown;
+}
+
+p#combo.highlighted[title="weight=111"] {
+    color: white;
+    background-color: crimson;
+}
+
+
+a.hoverable:hover {
+    color: white;
+    background-color: darkblue;
+}
+
+
+* {
+    font-family: Arial, sans-serif;
+}
+
+div.any {
+    color: white;
+    background-color: darkgray;
+}
